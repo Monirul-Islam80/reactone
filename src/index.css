@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+@media (max-width: 768px) {
+    .header{
+        flex-direction: column-reverse;
+        text-align: center;
+        height: 55vh;
+    }
+    .image .animated{
+        float: none !important;
+    }
+    footer{
+        margin: 0;
+    }
+}
+.image img{
+    float: right;
+    margin-right: 10px;
+}
+.animated{
+    animation: up-down 2s ease-in-out  infinite alternate-reverse both;
+}
+@keyframes up-down{
+    0%{
+        transform: translateY(10px);
+    }
+    100%{
+        transform: translateY(-10px);
+    }
+}
+.cardimg{
+    width: 18rem;
+}
