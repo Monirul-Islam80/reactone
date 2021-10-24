@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactone/static/css/main.49ca691a.chunk.css",
+    "main.js": "/reactone/static/js/main.643e2ef4.chunk.js",
+    "main.js.map": "/reactone/static/js/main.643e2ef4.chunk.js.map",
+    "runtime-main.js": "/reactone/static/js/runtime-main.aea39736.js",
+    "runtime-main.js.map": "/reactone/static/js/runtime-main.aea39736.js.map",
+    "static/css/2.d8cb5cde.chunk.css": "/reactone/static/css/2.d8cb5cde.chunk.css",
+    "static/js/2.7dafa553.chunk.js": "/reactone/static/js/2.7dafa553.chunk.js",
+    "static/js/2.7dafa553.chunk.js.map": "/reactone/static/js/2.7dafa553.chunk.js.map",
+    "index.html": "/reactone/index.html",
+    "static/css/2.d8cb5cde.chunk.css.map": "/reactone/static/css/2.d8cb5cde.chunk.css.map",
+    "static/css/main.49ca691a.chunk.css.map": "/reactone/static/css/main.49ca691a.chunk.css.map",
+    "static/js/2.7dafa553.chunk.js.LICENSE.txt": "/reactone/static/js/2.7dafa553.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aea39736.js",
+    "static/css/2.d8cb5cde.chunk.css",
+    "static/js/2.7dafa553.chunk.js",
+    "static/css/main.49ca691a.chunk.css",
+    "static/js/main.643e2ef4.chunk.js"
+  ]
+}
